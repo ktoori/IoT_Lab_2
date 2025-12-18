@@ -1,0 +1,71 @@
+D:\IoT\NBodySimulation\x64\Debug>NBodySimulation.exe 20.0 input_1000.txt 1
+Time interval: 0 to 20.00
+Threads: 1
+Number of points: 1000
+Time step: 0.0100
+Total steps: 2000
+
+Simulation complete
+Execution time: 25.5507 seconds
+Performance: 78.28 steps/sec
+Results in output.csv
+
+D:\IoT\NBodySimulation\x64\Debug>NBodySimulation.exe 20.0 input_1000.txt 2
+Time interval: 0 to 20.00
+Threads: 2
+Number of points: 1000
+Time step: 0.0100
+Total steps: 2000
+
+Simulation complete
+Execution time: 16.1821 seconds
+Performance: 123.59 steps/sec
+Results in output.csv
+
+D:\IoT\NBodySimulation\x64\Debug>NBodySimulation.exe 20.0 input_1000.txt 4
+Time interval: 0 to 20.00
+Threads: 4
+Number of points: 1000
+Time step: 0.0100
+Total steps: 2000
+
+Simulation complete
+Execution time: 10.9763 seconds
+Performance: 182.21 steps/sec
+Results in output.csv
+
+D:\IoT\NBodySimulation\x64\Debug>NBodySimulation.exe 20.0 input_1000.txt 6
+Time interval: 0 to 20.00
+Threads: 6
+Number of points: 1000
+Time step: 0.0100
+Total steps: 2000
+
+Simulation complete
+Execution time: 9.3395 seconds
+Performance: 214.14 steps/sec
+Results in output.csv
+
+D:\IoT\NBodySimulation\x64\Debug>NBodySimulation.exe 20.0 input_1000.txt 8
+Time interval: 0 to 20.00
+Threads: 8
+Number of points: 1000
+Time step: 0.0100
+Total steps: 2000
+
+Simulation complete
+Execution time: 9.7180 seconds
+Performance: 205.80 steps/sec
+Results in output.csv
+
+D:\IoT\NBodySimulation\x64\Debug>NBodySimulation.exe 20.0 input_1000.txt 12
+Time interval: 0 to 20.00
+Threads: 12
+Number of points: 1000
+Time step: 0.0100
+Total steps: 2000
+
+Simulation complete
+Execution time: 9.6805 seconds
+Performance: 206.60 steps/sec
+Results in output.csv
