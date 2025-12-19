@@ -97,7 +97,8 @@ int main(int argc, char* argv[]) {
     free(points);
 
     printf("Execution time: %f sec\n", (end_time - start_time) / time_iter);
-    printf("Mandelbrot set points: %d из %d\n", points_in_set, npoints);
+    printf("Mandelbrot set points: %d of %d\n", points_in_set, npoints);
     
     return 0;
+
 }
